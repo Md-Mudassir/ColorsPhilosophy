@@ -1,4 +1,4 @@
 # ColorsPhilosophy
 Colors Philosophy list
 
-It diplays the colors and their meaning.
+It diplays different colors and their meaning, built using Bootstrap 4.3
